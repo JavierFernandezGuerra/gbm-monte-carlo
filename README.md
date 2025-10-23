@@ -1,6 +1,6 @@
 # 📈 Price Trajectory Simulation with Geometric Brownian Motion
 
-**Author:** Javier Fernández Guerra
+**Author:** Javier Fernández Guerra | **Date:** October, 2025
 
 ## Overview
 
