@@ -11,8 +11,7 @@
 
 This project models the **price evolution of a financial asset** (S&P 500) using a **Geometric Brownian Motion (GBM)** stochastic process. It includes Monte Carlo simulations, statistical analysis, and risk visualization.
 
-> You can find the **English version** of the notebook as `GBM_ENG_Javier_Fernández_Guerra.ipynb`.  
-> A **Spanish version** is also available as `GBM_ESP_Javier_Fernández_Guerra.ipynb`.
+> The notebook is available in two languages: `gbm_en.ipynb` (English) and `gbm_es.ipynb` (Spanish).
 
 
 ## Features
@@ -69,9 +68,9 @@ pip install numpy pandas matplotlib scipy yfinance
 ## Usage
 
 ```bash
-git clone https://github.com/<your-username>/GBM_ENG_Javier_Fernández_Guerra.git
-cd GBM_ENG_Javier_Fernández_Guerra
-jupyter notebook GBM_ENG_Javier_Fernández_Guerra.ipynb
+git clone https://github.com/JavierFernandezGuerra/gbm-monte-carlo.git
+cd gbm-monte-carlo
+jupyter notebook gbm_en.ipynb     # or gbm_es.ipynb for the Spanish version
 ```
 
 Run all cells to reproduce simulations and plots.
