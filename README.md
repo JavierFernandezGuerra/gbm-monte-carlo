@@ -1,5 +1,10 @@
 # Price Trajectory Simulation with Geometric Brownian Motion
 
+![Python 3.x](https://img.shields.io/badge/python-3.x-blue)
+![SciPy](https://img.shields.io/badge/scipy-stats-orange)
+![Topic](https://img.shields.io/badge/topic-monte_carlo-purple)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 **Author:** Javier Fernández Guerra | **Date:** October, 2025
 
 ## Overview
